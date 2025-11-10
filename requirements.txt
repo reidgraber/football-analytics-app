@@ -1,3 +1,4 @@
 streamlit
-pandas
-plotly
+ffmpeg-python
+moviepy
+opencv-python-headless
